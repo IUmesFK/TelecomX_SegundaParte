@@ -1,0 +1,34 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de log
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones de entorno
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Carpetas ocultas de herramientas de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias (si usás pipenv o poetry)
+Pipfile.lock
+poetry.lock
