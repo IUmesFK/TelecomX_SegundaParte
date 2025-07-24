@@ -1,4 +1,4 @@
-idCliente,desercion_cliente,genero,es_jubilado,tiene_pareja,tiene_dependientes,antiguedad,servicio_telefonico,multiples_lineas,servicio_internet,servicio_seguridad,servicio_backup,servicio_proteccion,servicio_soporte_tecnico,streaming_tv,streaming_peliculas,tipo_contrato,factura_digital,metodo_pago,cargo_mensual,cargos_total,cuentas_diarias
+idCliente,Churn,genero,es_jubilado,tiene_pareja,tiene_dependientes,antiguedad,servicio_telefonico,multiples_lineas,servicio_internet,servicio_seguridad,servicio_backup,servicio_proteccion,servicio_soporte_tecnico,streaming_tv,streaming_peliculas,tipo_contrato,factura_digital,metodo_pago,cargo_mensual,cargos_total,cuentas_diarias
 0002-ORFBO,False,femenino,False,True,True,9,True,False,DSL,False,True,False,True,True,False,un año,True,cheque por correo,65.6,593.3,2.19
 0003-MKNFE,False,masculino,False,False,False,9,True,True,DSL,False,False,False,False,False,True,mes a mes,False,cheque por correo,59.9,542.4,2.0
 0004-TLHLJ,True,masculino,False,False,False,4,True,False,Fibra optica,False,False,True,False,False,False,mes a mes,True,cheque electrónico,73.9,280.85,2.46
